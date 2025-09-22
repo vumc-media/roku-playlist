@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>VUMC Live</title>
+    <link>https://www.youtube.com/@versaillesumc</link>
+    <description>Current live worship service</description>
+    <!-- Zap 1 will replace the single <item> below each time you go live -->
+    <item>
+      <title>Waiting for next live service</title>
+      <description>Check back Sunday.</description>
+      <media:content url="" type="video/mp4"/>
+    </item>
+  </channel>
+</rss>
