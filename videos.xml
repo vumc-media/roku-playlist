@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Versailles UMC Video Library</title>
+    <link>https://www.versaillesumc.org</link>
+    <description>Curated worship services and sermon series from Versailles United Methodist Church.</description>
+    <language>en-us</language>
+
+    <item>
+      <title>Week 5 — More Than Enough</title>
+      <description>ACTS: The Church That Changed the World — Week 5</description>
+      <category>ACTS: The Church That Changed the World</category>
+      <guid isPermaLink="false">acts-week-5-more-than-enough</guid>
+      <media:content url="https://pub-b27dbb9301fa4d12b052a98a92aabbaf.r2.dev/Acts%20The%20Church%20That%20Changed%20the%20World/Week%205%20%E2%80%94%20More%20Than%20Enough%20_%20Acts%203.mp4" type="video/mp4" />
+    </item>
+
+  </channel>
+</rss>
